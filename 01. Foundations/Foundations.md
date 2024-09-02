@@ -15,3 +15,9 @@ This is where it all begins!
 - [x] [Asking For Help](https://www.theodinproject.com/lessons/foundations-asking-for-help)
 
 - [x] [Join the Odin Community](https://theodinproject.com/lessons/foundations-join-the-odin-community)
+
+### **Prerequisites**
+
+- [x] [Computer Basics](https://www.theodinproject.com/lessons/foundations-computer-basics)
+
+- [x] [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
