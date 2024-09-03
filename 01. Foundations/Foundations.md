@@ -21,3 +21,7 @@ This is where it all begins!
 - [x] [Computer Basics](https://www.theodinproject.com/lessons/foundations-computer-basics)
 
 - [x] [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
+
+- [x] [Installation Overview](https://theodinproject.com/lessons/foundations-installation-overview)
+
+- [x] [Installations](https://www.theodinproject.com/lessons/foundations-installations)
