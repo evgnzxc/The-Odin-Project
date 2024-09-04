@@ -25,3 +25,5 @@ This is where it all begins!
 - [x] [Installation Overview](https://theodinproject.com/lessons/foundations-installation-overview)
 
 - [x] [Installations](https://www.theodinproject.com/lessons/foundations-installations)
+
+- [x] [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
