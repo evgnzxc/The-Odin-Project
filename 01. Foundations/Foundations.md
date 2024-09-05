@@ -27,3 +27,5 @@ This is where it all begins!
 - [x] [Installations](https://www.theodinproject.com/lessons/foundations-installations)
 
 - [x] [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
+
+- [x] [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
