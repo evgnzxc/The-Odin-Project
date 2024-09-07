@@ -31,3 +31,7 @@ This is where it all begins!
 - [x] [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 - [x] [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+
+### Git Basics
+
+- [x] [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
