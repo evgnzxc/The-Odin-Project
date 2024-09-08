@@ -35,3 +35,4 @@ This is where it all begins!
 ### Git Basics
 
 - [x] [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
+- [x] [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
