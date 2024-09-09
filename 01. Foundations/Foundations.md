@@ -37,3 +37,7 @@ This is where it all begins!
 - [x] [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
 
 - [x] [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
+
+### HTML Foundations
+
+- [x] [Introduction to HTML and CSS](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
