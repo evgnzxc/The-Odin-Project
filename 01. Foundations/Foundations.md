@@ -43,3 +43,5 @@ This is where it all begins!
 - [x] [Introduction to HTML and CSS](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
 
 - [x] [Elements and Tags](https://www.theodinproject.com/lessons/foundations-elements-and-tags)
+
+- [x] [HTML Boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
