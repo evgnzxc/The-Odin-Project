@@ -45,3 +45,5 @@ This is where it all begins!
 - [x] [Elements and Tags](https://www.theodinproject.com/lessons/foundations-elements-and-tags)
 
 - [x] [HTML Boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
+
+- [x] [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
