@@ -48,4 +48,4 @@ This is where it all begins!
 
 - [x] [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
 
-- [ ] [Lists](https://www.theodinproject.com/lessons/foundations-lists)
+- [x] [Lists](https://www.theodinproject.com/lessons/foundations-lists)
