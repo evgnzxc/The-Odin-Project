@@ -49,3 +49,5 @@ This is where it all begins!
 - [x] [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
 
 - [x] [Lists](https://www.theodinproject.com/lessons/foundations-lists)
+
+- [x] [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
