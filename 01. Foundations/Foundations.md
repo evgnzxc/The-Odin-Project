@@ -51,3 +51,5 @@ This is where it all begins!
 - [x] [Lists](https://www.theodinproject.com/lessons/foundations-lists)
 
 - [x] [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
+
+- [x] [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
