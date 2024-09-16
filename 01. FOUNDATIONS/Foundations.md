@@ -53,3 +53,5 @@ This is where it all begins!
 - [x] [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
 
 - [x] [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
+
+- [x] [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
