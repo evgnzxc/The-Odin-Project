@@ -55,3 +55,7 @@ This is where it all begins!
 - [x] [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
 
 - [x] [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
+
+### CSS Foundations
+
+- [x] [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
