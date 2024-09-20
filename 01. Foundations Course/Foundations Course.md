@@ -59,3 +59,5 @@ This is where it all begins!
 ### CSS Foundations
 
 - [x] [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
+
+- [x] [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
