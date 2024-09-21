@@ -61,3 +61,5 @@ This is where it all begins!
 - [x] [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
 
 - [x] [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
+
+- [x] [Inspecting HTML and CSS](https://theodinproject.com/lessons/foundations-inspecting-html-and-css)
