@@ -65,3 +65,5 @@ This is where it all begins!
 - [x] [Inspecting HTML and CSS](https://theodinproject.com/lessons/foundations-inspecting-html-and-css)
 
 - [x] [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
+
+- [x] [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
