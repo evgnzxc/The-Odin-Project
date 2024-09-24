@@ -67,3 +67,7 @@ This is where it all begins!
 - [x] [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
 
 - [x] [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+
+### Flexbox
+
+- [x] [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
