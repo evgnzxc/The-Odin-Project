@@ -73,3 +73,5 @@ This is where it all begins!
 - [x] [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
 
 - [x] [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
+
+- [x] [Axes](https://theodinproject.com/lessons/foundations-axes)
