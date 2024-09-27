@@ -75,3 +75,5 @@ This is where it all begins!
 - [x] [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 
 - [x] [Axes](https://theodinproject.com/lessons/foundations-axes)
+
+- [x] [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
