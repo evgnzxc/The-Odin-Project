@@ -77,3 +77,5 @@ This is where it all begins!
 - [x] [Axes](https://theodinproject.com/lessons/foundations-axes)
 
 - [x] [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
+
+- [x] [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
