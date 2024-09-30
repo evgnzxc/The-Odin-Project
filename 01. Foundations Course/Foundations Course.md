@@ -79,3 +79,7 @@ This is where it all begins!
 - [x] [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
 
 - [x] [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
+
+### JavaScript Basics
+
+- [x] [Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators)
