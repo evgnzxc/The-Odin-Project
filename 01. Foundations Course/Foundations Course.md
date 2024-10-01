@@ -83,3 +83,5 @@ This is where it all begins!
 ### JavaScript Basics
 
 - [x] [Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators)
+
+- [x] [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
