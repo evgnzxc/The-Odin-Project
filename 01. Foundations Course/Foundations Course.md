@@ -85,3 +85,5 @@ This is where it all begins!
 - [x] [Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators)
 
 - [x] [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
+
+- [x] [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
