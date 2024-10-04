@@ -89,3 +89,5 @@ This is where it all begins!
 - [x] [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
 
 - [x] [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics)
+
+- [x] [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)
