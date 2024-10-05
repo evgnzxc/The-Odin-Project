@@ -91,3 +91,5 @@ This is where it all begins!
 - [x] [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics)
 
 - [x] [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)
+
+- [x] [Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)
