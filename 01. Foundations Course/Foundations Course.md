@@ -95,3 +95,5 @@ This is where it all begins!
 - [x] [Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)
 
 - [x] [Project: Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+
+- [x] [Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)
