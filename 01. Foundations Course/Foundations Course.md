@@ -97,3 +97,5 @@ This is where it all begins!
 - [x] [Project: Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
 - [x] [Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)
+
+- [x] [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)
